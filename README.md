@@ -3,7 +3,8 @@
 2. pop
 3. swap
 4. add
-5. nop6. sub
+5. nop
+6. sub
 7. div
 8. mul
 9. mod
